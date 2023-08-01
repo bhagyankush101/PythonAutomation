@@ -1,0 +1,11 @@
+class TestData:
+    Base_Url="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+    Username="Admin"
+    Password="admin123"
+    Wrong_credential="admin"
+    Login_Page_Title="OrangeHRM"
+    Home_Page_Header="Dashboard"
+    Admin_Page_Header="Admin"
+    Delete_Selected_Option="Delete Selected"
+    profile_Icon_detail="Accepts jpg, .png, .gif up to 1MB. Recommended dimensions: 200px X 200px"
+    Filepath="C:/Users/Agiliad/Downloads/sagar.txt"

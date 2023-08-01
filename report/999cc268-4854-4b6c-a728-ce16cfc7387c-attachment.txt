@@ -1,0 +1,1 @@
+Accepts jpg, .png, .gif up to 1MB. Recommended dimensions: 200px X 200px

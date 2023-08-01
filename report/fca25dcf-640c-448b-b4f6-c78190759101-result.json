@@ -1,0 +1,1 @@
+{"name": "test_validate_profile_icon[chrome]", "status": "skipped", "parameters": [{"name": "init_driver", "value": "'chrome'"}], "start": 1686900730196, "stop": 1686900730196, "uuid": "ebaa6cbc-9f55-43f3-b15c-88cee0e37224", "testCaseId": "f4f02f918077c3a11da7ae06b322cb0f", "fullName": "Tests.test_MyInfoPage.Test_MyInfo#test_validate_profile_icon"}
