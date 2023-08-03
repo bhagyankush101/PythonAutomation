@@ -1,0 +1,27 @@
+name:Run test
+
+on:
+ push:
+  branches: 
+   -'main'
+ pull request:
+  branches:
+   -'main'
+   
+jobs:
+ tests:
+  runs-on: windows
+  
+  steps:
+   -name: Checkout
+    uses: action/checkout@v2
+   -name: Setup Node
+    uses: action/checkout@v2
+    with:
+     node-version:16.18
+   -name: Install Dependancies
+    run: npm ci
+   -name: Run tests
+    run: npm test
+    
+   
